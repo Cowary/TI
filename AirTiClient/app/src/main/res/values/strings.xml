@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AirTiClient</string>
+    <string name="temp">Температура CPU: </string>
+    <string name="down">Входящий трафик: </string>
+    <string name="speed">Скорость: </string>
+    <string name="value">Value</string>
+    <string name="errorTemp">Превышение допустимой температуры процессора</string>
+    <string name="errorSpeed">Превышение допустимой скорости входящего трафика</string>
+    <string name="errorRec">Превышение допустимого количества входящего трафика</string>
+    <string name="ipInput">Введите IP-адрес</string>
+    <string name="mainButton">Старт</string>
+    <string name="stopButton">Стоп</string>
+    <string name="error">Error</string>
+</resources>
